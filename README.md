@@ -17,8 +17,17 @@ Sandy’s Cafe is a responsive front-end website for a modern café, built using
 - Google Fonts
 
 ## 📸 Screenshots
+- Main page
+ 
+![Sandy's Cafe Preview](https://github.com/santhosh-0210/sandyscafe-website/blob/2efbd787fb288e2fc87eb7d039fbf2bb94f536b9/Screenshots/Main.png)
 
+- Login Page
+  
+![Sandy's Cafe Preview](https://github.com/santhosh-0210/sandyscafe-website/blob/2efbd787fb288e2fc87eb7d039fbf2bb94f536b9/Screenshots/User.png)
 
+- Cart page
+  
+![Sandy's Cafe Preview](https://github.com/santhosh-0210/sandyscafe-website/blob/2efbd787fb288e2fc87eb7d039fbf2bb94f536b9/Screenshots/Cart.png)
 
 ## 📂 Project Structure
 
