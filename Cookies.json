@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Almond",
+        "price": 10,
+        "discount": 15,
+        "image": "Image/Almond.png"
+    },
+    {
+        "id": 2,
+        "name": "Chocolate Chip",
+        "price": 10,
+        "discount": 15,
+        "image": "Image/Chocolate Chip.png"
+    },
+    {
+        "id": 3,
+        "name": "Shortbread",
+        "price": 20,
+        "discount": 25,
+        "image": "Image/Shortbread.png"
+    },
+    {
+        "id": 4,
+        "name": "Red Velvet",
+        "price": 40,
+        "discount": 45,
+        "image": "Image/Red Velvet.png"
+    },
+    {
+        "id": 5,
+        "name": "Oatmeal Raisin",
+        "price": 15,
+        "discount": 20,
+        "image": "Image/Oatmeal Raisin.png"
+    },
+    {
+        "id": 6,
+        "name": "Snickerdoodle",
+        "price": 30,
+        "discount": 35,
+        "image": "Image/Snickerdoodle.png"
+    },
+    {
+        "id": 7,
+        "name": "Macaroons",
+        "price": 10,
+        "discount": 15,
+        "image": "Image/Macaroons.png"
+    },
+    {
+        "id": 8,
+        "name": "Kahk",
+        "price": 50,
+        "discount": 65,
+        "image": "Image/Kahk.png"
+    }
+]

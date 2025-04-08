@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User</title>
+</head>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+<link rel="stylesheet" href="./User.css">
+
+<body>
+    
+    <!--welcom starts-->
+    <div class="background"></div>
+    <div class="container">
+        <div class="item">
+            <h2 class="logo"><img src="/Image/Logo.png" alt="logo"> Sandy's Cafe</h2>
+        <div class="text">
+            <h3>Welcome..!<br><span>To Our Cafe</span></h3>
+            <p>Log in to enjoy your favorite drinks, delicious treats, and exclusive rewards. Your next cup of coffee is just a click away..!</p>
+            <div class="icon">
+            <a href="https://en-gb.facebook.com/"><i class="fab fa-facebook"></i></a>
+            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.google.co.in/"><i class="fab fa-google"></i></a>
+            <a href="https://x.com/?lang=en"><i class="fab fa-x-twitter"></i></a>
+            <a href="https://www.youtube.com/"><i class="fab fa-youtube"></i></a>
+            </div>
+        </div>
+        </div>
+    <!--welcome ends-->
+
+    <!--form ends-->
+    <div class="login-sec">
+        <!--login starts-->
+        <div class="formbox login">
+            <form action="" autocomplete="on" class="login-form">
+                <h2>Sign In</h2>
+                <div class="inputbox">
+                    <span class="icon"><i class="fas fa-envelope"></i></span>
+                    <input type="email" id="login-email" required>
+                    <label for="login-email">Email</label>
+                </div>
+                <div class="inputbox">
+                    <span class="icon"><i class="fas fa-lock"></i></span>
+                    <input type="password" id="login-password" required maxlength="10">
+                    <label for="login-password">Password</label>
+                </div>
+                <div class="remember">
+                    <label for="login-checkbox"><input type="checkbox" id="login-checkbox"> Remember Me</label>
+                    <a href="#">Forget Password?</a>
+                </div>
+                <button class="btn" type="submit" id="loginbtn">Login</button>
+                <div class="create">
+                    <p>Create A New Account? <a href="#" class="register-link">Sign Up</a></p>
+                </div>
+            </form>
+        </div>
+        <!--login ends-->
+
+        <!--signup starts-->
+        <div class="formbox signup">
+            <form action="" autocomplete="on" class="signup-form">
+                <h2>Sign Up</h2>
+                <div class="inputbox">
+                    <span class="icon"><i class="fas fa-user"></i></span>
+                    <input type="text" id="signup-username" required>
+                    <label for="signup-username">Username</label>
+                </div>
+                <div class="inputbox">
+                    <span class="icon"><i class="fas fa-envelope"></i></span>
+                    <input type="email" id="signup-email" required>
+                    <label for="signup-email">Email</label>
+                </div>
+                <div class="inputbox">
+                    <span class="icon"><i class="fas fa-lock"></i></span>
+                    <input type="password" id="signup-password" required maxlength="10">
+                    <label for="signup-password">Password</label>
+                </div>
+                <div class="remember">
+                    <label for="signup-checkbox"><input type="checkbox" id="signup-checkbox" required>I agree to your terms and conditions</label>
+                </div>
+                <button class="btn" id="signupbtn" type="submit">Signup</button>
+                <div class="create">
+                    <p>Already Have An Account? <a href="#" class="login-link">Sign In</a></p>
+                </div>
+            </form>
+        </div>
+        <!--signup ends-->
+    </div>
+</div>
+    <!--form ends-->
+
+    <script src="./User.js"></script>
+</body>
+</html>

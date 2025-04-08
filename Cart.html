@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart</title>
+    <link rel="stylesheet" href="Cart.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+    <!--nav bar starts-->
+    <header>
+        <div class="nav">
+            <a href="#" class="logo">
+                <img src="/Image/Logo.png" alt="logo">
+                <h1>Sandy's Cafe</h1>
+            </a>
+            <nav class="navbar">
+                <a href="#coffee">Coffees</a>
+                <a href="#cake">Cakes</a>
+                <a href="#cookie">Cookies</a>
+                <a href="#bean">Beans</a>
+            </nav>
+            <div class="menu">
+                <i class="fas fa-shopping-cart" id="cart-icon" data-quantity="0"></i>
+                <i class="fas fa-bars" id="menu-icon"></i>
+            </div>
+            <div class="cart">
+                <h2 class="cart-title">Your Cart</h2>
+                <div class="cart-content">
+                    <p class="empty-cart-message"> <img src="Image/EmptyCart.png" alt=""><br>Your cart is empty.</p>
+                </div>
+                <div class="total">
+                    <div class="total-title">Total : </div>
+                    <div class="total-price">Rs.0</div>
+                </div>
+                <button type="button" class="btn-buy">Order Now</button>
+                <i class="fas fa-times" id="close-cart"></i>
+            </div>
+        </div>
+    </header>
+    <!--nav bar ends-->
+
+
+    <!--Product box starts-->
+    <section class="shop container">
+        <h2 class="section-title" id="coffee">Coffees</h2>
+        <div class="shop-content coffee" id="coffee-sec"> 
+        
+        </div>
+        <h2 class="section-title" id="cake">Cakes & Cupcakes</h2>
+        <div class="shop-content cake" id="cake-sec">
+        
+        </div>
+        <h2 class="section-title" id="cookie">Cookies</h2>
+        <div class="shop-content cookie" id="cookie-sec">
+        
+        </div>
+        <h2 class="section-title" id="bean">Coffee Beans</h2>
+        <div class="shop-content bean" id="bean-sec">
+        
+        </div>
+    </section>
+    <!--Product box ends-->
+
+    <script src="Cart.js"></script>
+</body>
+</html>

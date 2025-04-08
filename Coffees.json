@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Black Coffee",
+        "price": 15,
+        "discount": 20,
+        "image": "Image/Black Coffee.png"
+    },
+    {
+        "id": 2,
+        "name": "Espresso",
+        "price": 100,
+        "discount": 120,
+        "image": "Image/Espresso.png"
+    },
+    {
+        "id": 3,
+        "name": "Filter Coffee",
+        "price": 30,
+        "discount": 35,
+        "image": "Image/Filter Coffee.png"
+    },
+    {
+        "id": 4,
+        "name": "Latte Macchiato",
+        "price": 80,
+        "discount": 90,
+        "image": "Image/Latte Macchiato.png"
+    },
+    {
+        "id": 5,
+        "name": "Cappuccino",
+        "price": 150,
+        "discount": 160,
+        "image": "Image/Cappuccino.png"
+    },
+    {
+        "id": 6,
+        "name": "Dalgona",
+        "price": 200,
+        "discount": 220,
+        "image": "Image/Dalgona.png"
+    },
+    {
+        "id": 7,
+        "name": "Amaretto",
+        "price": 120,
+        "discount": 130,
+        "image": "Image/Amaretto.png"
+    },
+    {
+        "id": 8,
+        "name": "Vietnamese",
+        "price": 130,
+        "discount": 150,
+        "image": "Image/Vietnamese.png"
+    }
+]

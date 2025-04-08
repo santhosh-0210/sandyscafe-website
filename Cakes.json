@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Blackforest",
+        "price": 50,
+        "discount": 60,
+        "image": "Image/Blackforest.png"
+    },
+    {
+        "id": 2,
+        "name": "Cheese Cake",
+        "price": 120,
+        "discount": 150,
+        "image": "Image/Cheese Cake.png"
+    },
+    {
+        "id": 3,
+        "name": "Redvelvet",
+        "price": 70,
+        "discount": 90,
+        "image": "Image/Redvelvet.png"
+    },
+    {
+        "id": 4,
+        "name": "Brownie",
+        "price": 80,
+        "discount": 90,
+        "image": "Image/Brownie.png"
+    },
+    {
+        "id": 5,
+        "name": "Vanilla Cupcake",
+        "price": 15,
+        "discount": 20,
+        "image": "Image/Vanilla Cupcake.png"
+    },
+    {
+        "id": 6,
+        "name": "Chocolate Cupcake",
+        "price": 15,
+        "discount": 20,
+        "image": "Image/Chocolate Cupcake.png"
+    },
+    {
+        "id": 7,
+        "name": "Strawberry Cupcake",
+        "price": 15,
+        "discount": 20,
+        "image": "Image/Strawberry Cupcake.png"
+    },
+    {
+        "id": 8,
+        "name": "Swiss Roll",
+        "price": 25,
+        "discount": 30,
+        "image": "Image/Swiss Roll.png"
+    }
+]

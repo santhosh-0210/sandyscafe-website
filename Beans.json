@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Columbia beans",
+        "price": 999,
+        "discount": 1199,
+        "image": "Image/Columbia.png"
+    },
+    {
+        "id": 2,
+        "name": "Nicaragua beans",
+        "price": 1599,
+        "discount": 1699,
+        "image": "Image/Nicaragua.png"
+    },
+    {
+        "id": 3,
+        "name": "Ethiopia beans",
+        "price": 1999,
+        "discount": 2199,
+        "image": "Image/Ethiopia.png"
+    },
+    {
+        "id": 4,
+        "name": "Peru beans",
+        "price": 2299,
+        "discount": 2399,
+        "image": "Image/Peru.png"
+    }
+]
